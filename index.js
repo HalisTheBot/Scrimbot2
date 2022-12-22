@@ -31,4 +31,4 @@ client.once(Events.ClientReady, () => {
 
 
 
-client.login("MTA1NTMwOTg4NjYzMzgyMDE5MA.GI47Vb.pXu0vbxOatdiWCJYpbV2K84RsPeMXdjfsT9EEc");
+
